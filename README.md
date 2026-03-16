@@ -16,6 +16,6 @@
   Simple GUI interface
 Technologies Us
 # How To Run
-run the server  python server.py
-run the client  python client.py
+1.run the server  python server.py
+2.run the client  python client.py
  
