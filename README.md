@@ -5,11 +5,38 @@ File
 .client.py
 .server.py
 
-Features
-Real-time messaging
-Multi-user chat system Client-server architecture
-Username-based communication Simple GUI interface Technologies Us
+## Features
+- Real-time messaging
+- Multiple users support
+- Server-client architecture
+- Username-based chat
+- Simple GUI using Tkinter
+  
 
-How To Run
-1.run the server python server.py 
-2.run the client python client.py
+## Technologies Used
+- Python
+- Socket Programming
+- Tkinter
+- Threading## Technologies Used
+- Python
+- Socket Programming
+- Tkinter
+- Threading
+
+  ## Installation
+
+1. Clone the repository
+git clone https://github.com/niranjan12n-collab/secure-chat-app.git
+
+2. Open the project folder
+cd secure-chat-app## Installation
+
+## Run the Application
+
+1. Start the server
+
+python server.py
+
+2. Start the client
+
+python client.py
