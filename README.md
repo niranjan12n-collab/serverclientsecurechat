@@ -6,14 +6,14 @@
   .socket
 
 # File 
-.client.py
-.server.py
+   .client.py
+   .server.py
 # Features
   Real-time messaging
-Multi-user chat system
-Client-server architecture
-Username-based communication
-Simple GUI interface
+  Multi-user chat system
+  Client-server architecture
+  Username-based communication
+  Simple GUI interface
 Technologies Us
 # How To Run
  .python server.py
