@@ -23,13 +23,7 @@ File
 - Tkinter
 - Threading
 
-  ## Installation
-
-1. Clone the repository
-git clone https://github.com/niranjan12n-collab/secure-chat-app.git
-
-2. Open the project folder
-cd secure-chat-app## Installation
+ 
 
 ## Run the Application
 
